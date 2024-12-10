@@ -1,0 +1,21 @@
+{
+    "name": "nwidart/people",
+    "description": "",
+    "authors": [
+        {
+            "name": "DanMav",
+            "email": "marvhinedan@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\People\\": ""
+        }
+    }
+}
